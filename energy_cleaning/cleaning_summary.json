@@ -1,0 +1,18 @@
+{
+  "source_filename": "NYC_Building_Energy_and_Water_Data_Disclosure_for_Local_Law_84_2023_to_Present_(Data_for_Calendar_Year_2022-Present)_20261015.csv",
+  "source_sha256": "b00a4bfcb1ee28045e3b7b2cfd6eb8a945aa1eff539509f34ed048da438b95dc",
+  "source_rows": 34430,
+  "selected_2024_manhattan_rows": 11937,
+  "eui_eligible_property_records": 10537,
+  "issue_counts": {
+    "parent_relationship_review_before_aggregation": 2284,
+    "community_board_requires_review": 12,
+    "missing_site_eui": 1360,
+    "nonpositive_site_eui": 28
+  },
+  "year_counts": {
+    "2022": 10636,
+    "2023": 11857,
+    "2024": 11937
+  }
+}
