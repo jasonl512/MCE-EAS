@@ -1,0 +1,8 @@
+area_id,year,geography,data_kind,status,issues,warnings,pm25_score,tree_cover_score,hvi_score,site_eui_score,equal_score,equal_rank,air_priority_score,air_priority_rank,trees_priority_score,trees_priority_rank,energy_priority_score,energy_priority_rank
+DEMO_A,2024,synthetic_district,synthetic,scored,,,90.0,20.0,25.0,22.222222,39.305556,4,59.583333,2,31.583333,4,32.472222,4
+DEMO_B,2024,synthetic_district,synthetic,scored,,,30.0,90.0,75.0,72.222222,66.805556,2,52.083333,3,76.083333,2,68.972222,2
+DEMO_C,2024,synthetic_district,synthetic,scored,,,50.0,50.0,50.0,50.0,50.0,3,50.0,4,50.0,3,50.0,3
+DEMO_D_MISSING,2024,synthetic_district,synthetic,incomplete_or_invalid,pm25_missing,,,40.0,50.0,55.555556,,,,,,,,
+DEMO_E_INVALID,2024,synthetic_district,synthetic,incomplete_or_invalid,site_eui_invalid_range,,70.0,40.0,50.0,,,,,,,,,
+DEMO_F_BOUND_CHECK,2024,synthetic_district,synthetic,scored,,pm25_outside_reference_bounds_clipped;tree_cover_outside_reference_bounds_clipped;site_eui_outside_reference_bounds_clipped,100,100,100,100,100.0,1,100.0,1,100.0,1,100.0,1
+DEMO_G_YEAR_CHECK,2023,synthetic_district,synthetic,incomplete_or_invalid,year_mismatch,,70.0,40.0,50.0,55.555556,,,,,,,,

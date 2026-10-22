@@ -1,0 +1,8 @@
+area_id,year,geography,data_kind,pm25,tree_cover,hvi,site_eui
+DEMO_A,2024,synthetic_district,synthetic,6,10,4,160
+DEMO_B,2024,synthetic_district,synthetic,12,45,2,70
+DEMO_C,2024,synthetic_district,synthetic,10,25,3,110
+DEMO_D_MISSING,2024,synthetic_district,synthetic,,20,3,100
+DEMO_E_INVALID,2024,synthetic_district,synthetic,8,20,3,0
+DEMO_F_BOUND_CHECK,2024,synthetic_district,synthetic,4,60,1,10
+DEMO_G_YEAR_CHECK,2023,synthetic_district,synthetic,8,20,3,100

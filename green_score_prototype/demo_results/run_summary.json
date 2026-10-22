@@ -1,0 +1,67 @@
+{
+  "data_kind": "synthetic",
+  "input_rows": 7,
+  "scored_rows": 4,
+  "blocked_rows": 3,
+  "warning_rows": 1,
+  "bounds_note": "Illustrative fixed bounds for software tests only. Not NYC thresholds, calibrated benchmarks or measured district ranges. HVI 1-5 is treated as evenly spaced for this provisional demo.",
+  "limitations": "Prototype only; no optimizer, causal effects or accuracy validation. Rankings only cover scored rows.",
+  "config_used": {
+    "data_kind": "synthetic",
+    "year": "2024",
+    "geography": "synthetic_district",
+    "bounds_note": "Illustrative fixed bounds for software tests only. Not NYC thresholds, calibrated benchmarks or measured district ranges. HVI 1-5 is treated as evenly spaced for this provisional demo.",
+    "indicators": {
+      "pm25": {
+        "minimum": 5,
+        "maximum": 15,
+        "direction": "lower",
+        "unit": "micrograms/m3"
+      },
+      "tree_cover": {
+        "minimum": 0,
+        "maximum": 50,
+        "direction": "higher",
+        "unit": "percent"
+      },
+      "hvi": {
+        "minimum": 1,
+        "maximum": 5,
+        "direction": "lower",
+        "unit": "ordinal index 1-5"
+      },
+      "site_eui": {
+        "minimum": 20,
+        "maximum": 200,
+        "direction": "lower",
+        "unit": "kBtu/ft2/year"
+      }
+    },
+    "scenarios": {
+      "equal": {
+        "pm25": 0.25,
+        "tree_cover": 0.25,
+        "hvi": 0.25,
+        "site_eui": 0.25
+      },
+      "air_priority": {
+        "pm25": 0.55,
+        "tree_cover": 0.15,
+        "hvi": 0.15,
+        "site_eui": 0.15
+      },
+      "trees_priority": {
+        "pm25": 0.15,
+        "tree_cover": 0.55,
+        "hvi": 0.15,
+        "site_eui": 0.15
+      },
+      "energy_priority": {
+        "pm25": 0.15,
+        "tree_cover": 0.15,
+        "hvi": 0.15,
+        "site_eui": 0.55
+      }
+    }
+  }
+}
