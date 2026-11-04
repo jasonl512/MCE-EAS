@@ -1,0 +1,62 @@
+﻿property_type,analysis_records,official_score_records,official_score_coverage_pct,median_official_energy_star_score,median_site_eui_kbtu_ft2_year
+Multifamily Housing,5220,4396,84.214559,68.000000,69.300000
+Office,1245,1099,88.273092,79.000000,59.200000
+Hotel,311,297,95.498392,45.000000,90.500000
+K-12 School,247,245,99.190283,69.000000,62.600000
+Mixed Use Property,75,6,8.000000,67.500000,77.000000
+Residence Hall/Dormitory,66,63,95.454545,74.000000,72.650000
+Parking,61,0,0.000000,,12.100000
+Retail Store,43,32,74.418605,56.500000,67.300000
+College/University,42,0,0.000000,,75.900000
+Worship Facility,39,34,87.179487,44.000000,47.500000
+Medical Office,32,29,90.625000,72.000000,81.200000
+Self-Storage Facility,30,0,0.000000,,17.850000
+Financial Office,27,24,88.888889,76.500000,75.900000
+Performing Arts,25,0,0.000000,,89.200000
+Museum,24,0,0.000000,,108.850000
+Fitness Center/Health Club/Gym,23,0,0.000000,,121.400000
+Police Station,20,0,0.000000,,103.450000
+Library,20,0,0.000000,,89.550000
+Senior Living Community,17,17,100.000000,38.000000,93.100000
+Data Center,16,1,6.250000,100.000000,170.350000
+Residential Care Facility,15,0,0.000000,,103.500000
+Vehicle Repair Services,15,0,0.000000,,97.600000
+Other - Lodging/Residential,14,0,0.000000,,70.150000
+Community Center and Social Meeting Hall,13,0,0.000000,,101.800000
+Manufacturing/Industrial Plant,12,0,0.000000,,59.000000
+Fire Station,12,0,0.000000,,74.350000
+Non-Refrigerated Warehouse,10,9,90.000000,36.000000,43.750000
+Hospital (General Medical & Surgical),9,9,100.000000,54.000000,230.300000
+Other - Specialty Hospital,8,0,0.000000,,179.000000
+Urgent Care/Clinic/Other Outpatient,7,0,0.000000,,133.100000
+Laboratory,7,0,0.000000,,216.300000
+Courthouse,6,6,100.000000,58.000000,88.600000
+Vehicle Dealership,6,6,100.000000,81.000000,42.950000
+Pre-school/Daycare,6,0,0.000000,,57.850000
+Movie Theater,5,0,0.000000,,111.800000
+Distribution Center,5,5,100.000000,19.000000,102.000000
+Other,5,0,0.000000,,86.400000
+Transportation Terminal/Station,4,0,0.000000,,142.700000
+Strip Mall,4,0,0.000000,,133.500000
+Other - Education,4,0,0.000000,,126.000000
+Other - Entertainment/Public Assembly,4,0,0.000000,,78.300000
+Adult Education,4,0,0.000000,,78.400000
+Outpatient Rehabilitation/Physical Therapy,3,0,0.000000,,99.800000
+Other - Public Services,3,0,0.000000,,58.200000
+Bank Branch,2,2,100.000000,59.000000,92.300000
+Wastewater Treatment Plant,2,2,100.000000,14.500000,247.650000
+Other - Mall,2,0,0.000000,,135.050000
+Enclosed Mall,2,0,0.000000,,94.650000
+Food Service,2,0,0.000000,,266.950000
+Ambulatory Surgical Center,2,0,0.000000,,167.700000
+Other - Technology/Science,2,0,0.000000,,175.250000
+Supermarket/Grocery Store,2,2,100.000000,76.500000,127.650000
+Food Sales,1,0,0.000000,,165.100000
+Indoor Arena,1,0,0.000000,,102.600000
+Refrigerated Warehouse,1,0,0.000000,,26.600000
+Other - Recreation,1,0,0.000000,,929.900000
+"Personal Services (Health/Beauty, Dry Cleaning, etc.)",1,0,0.000000,,149.800000
+Single-Family Home,1,1,100.000000,1.000000,126.300000
+Restaurant,1,0,0.000000,,114.300000
+Vocational School,1,0,0.000000,,78.100000
+Veterinary Office,1,0,0.000000,,284.900000

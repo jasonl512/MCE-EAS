@@ -1,0 +1,10 @@
+{
+  "analysis_records": 7789,
+  "official_energy_star_score_records": 6285,
+  "official_energy_star_score_missing_records": 1504,
+  "official_energy_star_score_coverage_pct": 80.69071767877777,
+  "median_available_official_energy_star_score": 70.0,
+  "method": "Use reported ENERGY STAR 1-100 score when available; leave missing scores blank.",
+  "district_summary": "Median of available property scores; exploratory, not an official district rating.",
+  "not_used": "No all-building EUI min-max score, no percentile cutoff score, and no imputation."
+}

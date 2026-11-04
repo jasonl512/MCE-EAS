@@ -1,5 +1,16 @@
 # 先看这里
 
+## 新增：能源评分方法
+
+先打开 `OPEN_ME_Energy_Score_Method.html`。这一页使用数据中已有的官方
+ENERGY STAR 1-100 分数，不再把所有不同类型的建筑放进同一个 Site EUI
+最低值/最高值公式。没有官方分数的记录继续留空，不会自行填写。
+
+给地图使用的新文件是
+`results/district_official_energy_score_for_map.csv`。它同时包含每个
+district 的中位数和数据覆盖率。这里的中位数只是初步地图汇总，并不是
+官方 district rating，也不是完整 Green Score。
+
 这是你们 GitHub 上真实的2024年曼哈顿能源数据分析，不是之前的模拟评分。
 
 ## 怎么打开

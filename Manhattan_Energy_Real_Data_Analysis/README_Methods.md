@@ -1,5 +1,13 @@
 # 2024 Manhattan reported building energy: exploratory analysis
 
+## Energy score update
+
+The current recommended energy component uses the reported property-level
+ENERGY STAR 1-100 score when available. Missing scores remain blank. See
+`ENERGY_SCORE_METHOD.md` and run `build_official_energy_score.py` after the main
+analysis. This avoids presenting one cross-property-type EUI min-max conversion
+as a validated efficiency score.
+
 ## Scope
 
 This package analyzes real property-report records from the team's prepared 2024 Manhattan LL84 extract. It does not calculate a Green Score, use synthetic observations, estimate intervention benefits, or implement planning optimization. The input is frozen at repository commit 51c434f931c2b0f0ba0aff11484038c28106a441. The original large raw download was not independently reprocessed in this analysis.
