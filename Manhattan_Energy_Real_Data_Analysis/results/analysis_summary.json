@@ -1,0 +1,40 @@
+{
+  "source_commit": "51c434f931c2b0f0ba0aff11484038c28106a441",
+  "source_url": "https://github.com/jasonl512/MCE-EAS/blob/51c434f931c2b0f0ba0aff11484038c28106a441/energy_cleaning/Manhattan_Building_Energy_2024_Clean.csv",
+  "source_sha256": "a45f8c07ed628a6715e7634f09b18cbe72b87c988dcf516732ffb76f25586264",
+  "source_rows": 11937,
+  "missing_site_eui": 1360,
+  "nonpositive_site_eui": 28,
+  "invalid_district": 12,
+  "initial_eligible_records": 10537,
+  "initial_excluded_unique_records": 1400,
+  "has_parent_link_all_records": 2284,
+  "referenced_as_parent_all_records": 481,
+  "initial_eligible_with_relationship_or_shared_identifier": 2709,
+  "additional_dob_eui_screen_excluded_after_overlap_screen": 39,
+  "screened_analysis_records": 7789,
+  "within_type_iqr_review_retained_records": 301,
+  "screened_median_site_eui": 68.5,
+  "screened_eui_min": 5.0,
+  "screened_eui_max": 929.9,
+  "all_positive_eui_max": 4322905.0,
+  "record_flow": [
+    {
+      "stage": "All 2024 Manhattan records",
+      "records": 11937
+    },
+    {
+      "stage": "Initial positive EUI, district and ID checks",
+      "records": 10537
+    },
+    {
+      "stage": "After setting aside parent-linked and shared-ID records",
+      "records": 7828
+    },
+    {
+      "stage": "After setting aside DOB EUI review-range records",
+      "records": 7789
+    }
+  ],
+  "verification": "Eligibility counts and district medians checked independently; parent/shared-identifier exclusion is provisional, not confirmed deduplication."
+}

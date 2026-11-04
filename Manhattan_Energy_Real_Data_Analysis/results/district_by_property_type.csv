@@ -1,0 +1,340 @@
+﻿boro_cd,property_type,n,median_site_eui
+101,Bank Branch,1,108.100000
+101,College/University,7,64.200000
+101,Courthouse,3,51.700000
+101,Data Center,3,167.700000
+101,Financial Office,7,76.000000
+101,Fire Station,1,29.200000
+101,Hospital (General Medical & Surgical),1,280.600000
+101,Hotel,34,84.950000
+101,K-12 School,9,76.300000
+101,Medical Office,2,145.450000
+101,Mixed Use Property,5,50.400000
+101,Multifamily Housing,266,59.000000
+101,Museum,2,80.100000
+101,Non-Refrigerated Warehouse,1,37.900000
+101,Office,123,59.800000
+101,Other,1,366.100000
+101,Other - Entertainment/Public Assembly,1,440.400000
+101,Parking,2,73.000000
+101,Police Station,1,141.900000
+101,Residence Hall/Dormitory,3,76.200000
+101,Restaurant,1,114.300000
+101,Retail Store,2,74.450000
+101,Strip Mall,1,118.900000
+101,Transportation Terminal/Station,3,126.900000
+102,Bank Branch,1,76.500000
+102,College/University,10,71.950000
+102,Community Center and Social Meeting Hall,2,34.100000
+102,Distribution Center,3,103.800000
+102,Financial Office,3,61.100000
+102,Fire Station,3,108.000000
+102,Fitness Center/Health Club/Gym,2,56.200000
+102,Food Service,1,267.600000
+102,Hospital (General Medical & Surgical),1,240.200000
+102,Hotel,21,118.900000
+102,K-12 School,10,64.500000
+102,Library,2,96.350000
+102,Manufacturing/Industrial Plant,3,67.900000
+102,Medical Office,5,81.600000
+102,Mixed Use Property,9,72.100000
+102,Multifamily Housing,407,65.500000
+102,Museum,2,124.100000
+102,Office,146,57.500000
+102,Other,1,21.500000
+102,Parking,8,10.650000
+102,Performing Arts,2,116.600000
+102,Police Station,1,124.600000
+102,Residence Hall/Dormitory,9,71.900000
+102,Residential Care Facility,1,131.800000
+102,Retail Store,8,59.600000
+102,Self-Storage Facility,2,30.150000
+102,Senior Living Community,1,66.500000
+102,Strip Mall,1,151.800000
+102,Supermarket/Grocery Store,1,227.700000
+102,Vehicle Repair Services,1,91.900000
+102,Worship Facility,1,21.600000
+103,Adult Education,1,60.900000
+103,College/University,3,87.000000
+103,Community Center and Social Meeting Hall,2,67.600000
+103,Data Center,1,171.500000
+103,Enclosed Mall,1,90.400000
+103,Fitness Center/Health Club/Gym,2,136.900000
+103,Hotel,11,136.900000
+103,K-12 School,28,50.400000
+103,Library,2,69.750000
+103,Medical Office,1,104.600000
+103,Mixed Use Property,6,60.200000
+103,Movie Theater,2,72.750000
+103,Multifamily Housing,229,71.200000
+103,Museum,2,38.150000
+103,Non-Refrigerated Warehouse,2,17.200000
+103,Office,22,57.500000
+103,Other,1,86.400000
+103,Other - Lodging/Residential,3,71.800000
+103,Other - Mall,1,178.500000
+103,Other - Public Services,1,57.600000
+103,Other - Recreation,1,929.900000
+103,Other - Specialty Hospital,1,172.600000
+103,Outpatient Rehabilitation/Physical Therapy,1,81.900000
+103,Parking,3,26.100000
+103,Performing Arts,1,144.900000
+103,Police Station,4,111.550000
+103,Residence Hall/Dormitory,8,64.150000
+103,Residential Care Facility,1,131.000000
+103,Self-Storage Facility,3,21.400000
+103,Senior Living Community,1,117.800000
+103,Urgent Care/Clinic/Other Outpatient,1,226.900000
+103,Vehicle Repair Services,2,49.400000
+103,Worship Facility,3,35.900000
+104,College/University,4,97.900000
+104,Courthouse,1,91.100000
+104,Data Center,1,169.200000
+104,Distribution Center,1,47.300000
+104,Financial Office,1,63.500000
+104,Fitness Center/Health Club/Gym,1,84.600000
+104,Hospital (General Medical & Surgical),1,206.300000
+104,Hotel,50,82.100000
+104,K-12 School,14,60.450000
+104,Library,2,68.450000
+104,Manufacturing/Industrial Plant,5,46.600000
+104,Medical Office,3,103.400000
+104,Mixed Use Property,11,59.600000
+104,Multifamily Housing,378,66.400000
+104,Museum,4,79.850000
+104,Non-Refrigerated Warehouse,1,75.600000
+104,Office,123,58.400000
+104,Other - Lodging/Residential,1,65.300000
+104,Other - Technology/Science,1,156.500000
+104,Parking,7,9.800000
+104,Performing Arts,6,79.000000
+104,Police Station,3,117.600000
+104,Refrigerated Warehouse,1,26.600000
+104,Residence Hall/Dormitory,3,106.200000
+104,Residential Care Facility,3,77.600000
+104,Retail Store,3,57.800000
+104,Self-Storage Facility,9,15.100000
+104,Senior Living Community,1,120.200000
+104,Transportation Terminal/Station,1,202.000000
+104,Urgent Care/Clinic/Other Outpatient,1,133.100000
+104,Vehicle Dealership,4,42.950000
+104,Vehicle Repair Services,3,97.600000
+104,Vocational School,1,78.100000
+105,Adult Education,2,90.400000
+105,College/University,2,73.800000
+105,Community Center and Social Meeting Hall,1,106.700000
+105,Courthouse,1,134.300000
+105,Data Center,1,208.500000
+105,Financial Office,16,76.600000
+105,Fire Station,2,92.650000
+105,Fitness Center/Health Club/Gym,2,163.450000
+105,Hotel,139,90.400000
+105,Indoor Arena,1,102.600000
+105,K-12 School,6,71.800000
+105,Laboratory,1,143.700000
+105,Library,2,102.200000
+105,Manufacturing/Industrial Plant,4,62.150000
+105,Medical Office,6,56.700000
+105,Mixed Use Property,19,88.500000
+105,Movie Theater,1,111.800000
+105,Multifamily Housing,293,66.700000
+105,Museum,3,123.800000
+105,Non-Refrigerated Warehouse,1,49.600000
+105,Office,681,59.100000
+105,Other - Entertainment/Public Assembly,2,78.300000
+105,Other - Lodging/Residential,1,133.500000
+105,Other - Mall,1,91.600000
+105,Other - Technology/Science,1,194.000000
+105,Parking,9,15.600000
+105,Performing Arts,14,96.700000
+105,Residence Hall/Dormitory,5,83.400000
+105,Retail Store,13,76.900000
+105,Self-Storage Facility,3,12.100000
+105,Senior Living Community,1,76.800000
+105,Worship Facility,6,67.150000
+106,Ambulatory Surgical Center,2,167.700000
+106,College/University,1,67.200000
+106,Community Center and Social Meeting Hall,2,125.200000
+106,Data Center,2,238.950000
+106,Fitness Center/Health Club/Gym,2,144.050000
+106,Hospital (General Medical & Surgical),1,230.300000
+106,Hotel,23,77.000000
+106,K-12 School,11,57.200000
+106,Laboratory,3,216.300000
+106,Library,2,136.750000
+106,Medical Office,4,88.950000
+106,Mixed Use Property,7,92.100000
+106,Movie Theater,1,135.800000
+106,Multifamily Housing,431,69.100000
+106,Museum,1,150.800000
+106,Office,86,61.550000
+106,Other - Education,1,137.200000
+106,Other - Lodging/Residential,1,58.200000
+106,Other - Public Services,1,65.700000
+106,Other - Specialty Hospital,1,185.400000
+106,Parking,5,11.400000
+106,Police Station,1,103.800000
+106,Residence Hall/Dormitory,13,61.600000
+106,Retail Store,1,30.200000
+106,Vehicle Repair Services,1,71.000000
+107,College/University,2,117.250000
+107,Data Center,2,183.700000
+107,Fire Station,1,42.800000
+107,Fitness Center/Health Club/Gym,3,121.200000
+107,Food Sales,1,165.100000
+107,Hotel,15,84.100000
+107,K-12 School,32,68.100000
+107,Library,1,101.800000
+107,Medical Office,1,248.600000
+107,Mixed Use Property,8,100.050000
+107,Movie Theater,1,122.600000
+107,Multifamily Housing,787,64.900000
+107,Museum,3,117.300000
+107,Office,4,54.850000
+107,Other,2,91.950000
+107,Other - Education,1,306.200000
+107,Other - Lodging/Residential,2,103.650000
+107,Outpatient Rehabilitation/Physical Therapy,1,99.800000
+107,Parking,7,8.200000
+107,Performing Arts,1,57.200000
+107,"Personal Services (Health/Beauty, Dry Cleaning, etc.)",1,149.800000
+107,Police Station,2,112.350000
+107,Residence Hall/Dormitory,3,77.300000
+107,Residential Care Facility,1,117.400000
+107,Retail Store,1,39.200000
+107,Self-Storage Facility,1,25.200000
+107,Senior Living Community,3,93.500000
+107,Strip Mall,1,114.100000
+107,Worship Facility,8,78.500000
+108,Adult Education,1,81.500000
+108,College/University,3,45.800000
+108,Community Center and Social Meeting Hall,2,106.200000
+108,Data Center,1,257.400000
+108,Enclosed Mall,1,98.900000
+108,Fitness Center/Health Club/Gym,5,128.100000
+108,Food Service,1,266.300000
+108,Hospital (General Medical & Surgical),3,225.000000
+108,Hotel,15,118.500000
+108,K-12 School,30,56.450000
+108,Laboratory,2,345.050000
+108,Library,4,78.500000
+108,Medical Office,5,76.400000
+108,Mixed Use Property,4,231.500000
+108,Multifamily Housing,908,66.500000
+108,Museum,3,203.200000
+108,Non-Refrigerated Warehouse,2,72.750000
+108,Office,27,65.400000
+108,Other - Public Services,1,58.200000
+108,Other - Specialty Hospital,6,169.900000
+108,Parking,10,18.850000
+108,Pre-school/Daycare,1,52.200000
+108,Residence Hall/Dormitory,1,34.300000
+108,Residential Care Facility,2,110.850000
+108,Retail Store,4,92.500000
+108,Self-Storage Facility,2,18.150000
+108,Senior Living Community,4,78.200000
+108,Single-Family Home,1,126.300000
+108,Vehicle Repair Services,1,280.900000
+108,Worship Facility,6,53.900000
+109,College/University,5,72.200000
+109,Community Center and Social Meeting Hall,1,20.400000
+109,Data Center,1,145.500000
+109,Fire Station,1,129.000000
+109,K-12 School,18,73.000000
+109,Laboratory,1,25.800000
+109,Library,1,97.400000
+109,Medical Office,1,239.300000
+109,Multifamily Housing,319,80.200000
+109,Office,4,76.250000
+109,Other - Entertainment/Public Assembly,1,49.800000
+109,Other - Lodging/Residential,1,103.500000
+109,Parking,1,41.000000
+109,Performing Arts,1,11.100000
+109,Police Station,2,109.400000
+109,Pre-school/Daycare,1,63.500000
+109,Residence Hall/Dormitory,13,73.000000
+109,Residential Care Facility,2,146.850000
+109,Retail Store,2,126.300000
+109,Self-Storage Facility,4,28.250000
+109,Urgent Care/Clinic/Other Outpatient,1,14.500000
+109,Wastewater Treatment Plant,1,217.800000
+109,Worship Facility,1,21.000000
+110,College/University,1,61.600000
+110,Community Center and Social Meeting Hall,2,117.650000
+110,Fire Station,1,104.700000
+110,Fitness Center/Health Club/Gym,2,120.750000
+110,Hotel,1,23.700000
+110,K-12 School,22,65.200000
+110,Library,2,78.700000
+110,Medical Office,2,45.600000
+110,Mixed Use Property,1,49.500000
+110,Multifamily Housing,285,75.200000
+110,Museum,1,62.600000
+110,Office,11,62.200000
+110,Other - Lodging/Residential,1,47.600000
+110,Police Station,2,98.850000
+110,Pre-school/Daycare,1,31.600000
+110,Residential Care Facility,2,102.150000
+110,Retail Store,3,64.300000
+110,Self-Storage Facility,2,13.750000
+110,Senior Living Community,2,133.400000
+110,Urgent Care/Clinic/Other Outpatient,2,160.450000
+110,Vehicle Dealership,1,64.200000
+110,Worship Facility,7,49.300000
+111,College/University,1,113.600000
+111,Community Center and Social Meeting Hall,1,109.000000
+111,Courthouse,1,223.900000
+111,Data Center,1,147.100000
+111,Distribution Center,1,20.300000
+111,Fire Station,1,30.100000
+111,Fitness Center/Health Club/Gym,2,107.800000
+111,Hospital (General Medical & Surgical),1,159.200000
+111,K-12 School,34,64.250000
+111,Library,1,43.100000
+111,Medical Office,1,125.100000
+111,Mixed Use Property,3,95.200000
+111,Multifamily Housing,159,69.100000
+111,Museum,2,108.850000
+111,Non-Refrigerated Warehouse,1,8.300000
+111,Office,11,56.500000
+111,Other - Lodging/Residential,3,108.300000
+111,Outpatient Rehabilitation/Physical Therapy,1,166.400000
+111,Police Station,2,87.600000
+111,Pre-school/Daycare,1,115.300000
+111,Residential Care Facility,3,92.600000
+111,Retail Store,1,11.100000
+111,Self-Storage Facility,2,17.800000
+111,Senior Living Community,4,87.250000
+111,Supermarket/Grocery Store,1,27.600000
+111,Urgent Care/Clinic/Other Outpatient,1,89.200000
+111,Vehicle Dealership,1,35.100000
+111,Vehicle Repair Services,4,175.750000
+111,Veterinary Office,1,284.900000
+111,Wastewater Treatment Plant,1,277.500000
+111,Worship Facility,5,30.100000
+112,College/University,3,128.600000
+112,Data Center,3,152.700000
+112,Fire Station,2,46.150000
+112,Fitness Center/Health Club/Gym,2,144.950000
+112,Hospital (General Medical & Surgical),1,245.200000
+112,Hotel,2,58.200000
+112,K-12 School,33,61.700000
+112,Library,1,78.700000
+112,Medical Office,1,62.200000
+112,Mixed Use Property,2,107.050000
+112,Multifamily Housing,758,82.600000
+112,Museum,1,5.000000
+112,Non-Refrigerated Warehouse,2,53.300000
+112,Office,7,61.500000
+112,Other - Education,2,83.950000
+112,Other - Lodging/Residential,1,61.800000
+112,Parking,9,9.200000
+112,Police Station,2,89.700000
+112,Pre-school/Daycare,2,52.150000
+112,Residence Hall/Dormitory,8,70.300000
+112,Retail Store,5,68.900000
+112,Self-Storage Facility,2,22.150000
+112,Strip Mall,1,148.100000
+112,Urgent Care/Clinic/Other Outpatient,1,212.000000
+112,Vehicle Repair Services,3,144.500000
+112,Worship Facility,2,28.550000
